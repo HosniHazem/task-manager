@@ -3,9 +3,6 @@
 A task tracking app — create tasks, set priority and due dates, filter and
 check them off. Built as a React single-page app with a Supabase backend.
 
-> **Note on the name:** this repository is named `AndroidApp` for historical
-> reasons. It contains no Android code; it is a React web application.
-
 ## What it does
 
 - Create tasks with title, description, priority and due date
